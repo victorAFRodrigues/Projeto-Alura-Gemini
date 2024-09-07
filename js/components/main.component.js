@@ -1,3 +1,6 @@
+
+
+
 class Component{
 
     createElement(tagName, content){
